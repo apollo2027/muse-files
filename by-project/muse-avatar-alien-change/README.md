@@ -48,6 +48,8 @@ transition.
 
 - `alien-final.png` — the shipped avatar: green alien boy, sideways backwards
   cap, white tee with red heart and "linds" lettering.
+- `alien-final-earth.png` — **the new final avatar (current)**: same alien boy,
+  but the tee now reads "earth" instead of "linds". This is the active avatar.
 
 ### Video
 
