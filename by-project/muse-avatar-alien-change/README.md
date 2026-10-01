@@ -22,6 +22,8 @@ clips, and the orb-spinning change animation.
 
 - `fluffy-orb-spinning-hd.mp4` — orb-spinning change animation (HD upscale of the
   480px original, orb spinning between the fluffy's hands)
+- `alien-working-hd.mp4` — alien boy working at the computer (HD upscale of the
+  720px avatar animation)
 - `fluffy-idle.mp4` — fluffy idle clip
 - `fluffy-working.mp4` — fluffy working clip
 - `fluffy-making-something.mp4` — fluffy making-something clip
