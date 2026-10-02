@@ -66,3 +66,13 @@ transition.
 - `fluffy-working.mp4` — fluffy working animation.
 - `fluffy-making-something.mp4` — fluffy making-something animation.
 - `fluffy-milestone.mp4` — fluffy milestone/celebration animation.
+
+## Earth tee versions
+
+Earth-tee variants of the six "linds" images above — `iter-2-cap-tee-outline-heart.png`,
+`iter-3-cap-tee-red-heart.png`, `iter-5-cap-sideways-tee.png`, `iter-6-cap-tee-v2.png`,
+`iter-7-cap-tee-v3.png`, and `alien-final.png` — live in the
+[earth-tee-versions/](earth-tee-versions/) subfolder, along with an earth-tee
+working animation (`alien-working-earth-hd.mp4`). The only change in each is the
+heart text: "linds" \u2192 "earth". The originals in this folder are untouched. See
+that subfolder's README for per-file details.
